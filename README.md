@@ -1,6 +1,6 @@
 # E-commerce-desktop-app
 applying some design paterns
 ### Factory
-### Singlton
+### Singleton
 ### Proxy
 ### Strategy
